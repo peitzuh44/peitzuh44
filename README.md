@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Pei
 - 🎮 I'm currently working on **Dual**, a gamify app that motivates people to make positive changes without burning out. <br/>
-- 🌱 I'm currently learning backend development
+- 🌱 I'm currently learning **backend development**。
 
 
 # 💻 Tech Stack
