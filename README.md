@@ -1,5 +1,5 @@
 ### 💫 About Me
-🎮 I'm currently working on **Dual：Solo-Leveling For Life**, a gamify app that motivates people to make positive changes without burning out. <br/>
+🎮 I'm currently working on **Dual**, a gamify app that motivates people to make positive changes without burning out. <br/>
 🌱 I'm currently learning backend development
 
 
