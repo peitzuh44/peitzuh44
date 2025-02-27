@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning backend development
 
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 ###### 💻 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
